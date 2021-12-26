@@ -1,0 +1,2 @@
+FLASK_APP=loteria.py
+FLASK_ENV=development
