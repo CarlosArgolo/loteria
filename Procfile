@@ -1,1 +1,1 @@
-web: gunicorn -b :$PORT loteria:app
+web: gunicorn -b :$PORT loteria-cefa:app
